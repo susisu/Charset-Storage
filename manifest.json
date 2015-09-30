@@ -5,7 +5,7 @@
     "description"     : "",
     "author"          : "Susisu <susisu2413@yahoo.co.jp> (https://github.com/susisu)",
     "homepage_url"    : "https://github.com/susisu/Charset-Storage",
-    "permissions"     : ["<all_urls>", "*://*/*", "activeTab", "tabs", "webRequest", "webRequestBlocking", "storage"],
+    "permissions"     : ["<all_urls>", "*://*/*", "activeTab", "tabs", "webRequest", "webRequestBlocking", "storage", "unlimitedStorage"],
     "icons"           : {
 
     },
